@@ -1,0 +1,18 @@
+{
+  "name": "page_images",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-image": "^2.7.2",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-rimraf": "^0.2.1",
+    "imagemin-jpeg-recompress": "^5.1.0"
+  }
+}
